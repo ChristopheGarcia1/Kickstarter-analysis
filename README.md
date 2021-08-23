@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Louis is starting a fundraiser to fund their theater project, Fever and they have a budget of around 10000 dollars.
+Louis is starting a fundraiser to fund their theater project, "Fever", and they have a budget of around $10,000 dollars. They have illicited our help in finding underlying trends in kickstarters that have succeeded, failed, or have been cancelled in order for their campaign to be successful.
 
 ### Purpose
 
