@@ -17,7 +17,7 @@ When the kickstarters were filtered to only show theater production Kickstarters
 
 ### Analysis of Outcomes Based on Goals
 
-According to the analysis, the data showed that the play productions that were most successful started at less than $5000 dollars and there was a downward turn in success rates once goals exceeded $20000. The play productions that tried to push toward those higher goals and were successful are outliers and should not be accounted as reliable. However in most of these five figure drives, the failed kickstarters outnumber the successful ones. The analysis shows that while $10000 Louis's wants for her play, she has significantly higher chance of success is she can kickstart her fundraiser for $5000 or less.
+According to the analysis, the data showed that the play productions that were most successful started at less than $5000 dollars and there was a downward turn in success rates once goals exceeded $20000. The play productions that tried to push toward those higher goals and were successful are outliers and should not be accounted as reliable. However in most of these five figure drives, the failed kickstarters outnumber the successful ones. 
 
 ![alt text](https://github.com/ChristopheGarcia1/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
@@ -27,11 +27,16 @@ The challenges I experienced in this dataset were little issues like incorrect f
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-* * It is recommended to launch the kickstarter around this time period.
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. It is recommended for Louis to launch the kickstarter around the months of May and June since The data shows that this time frame throughout all the years analyzed yielded the highest success rate.
+2. Compared to most other parent catagories, Theater kickstarters have the highest success rates when compared to other catagories so Louis should have better prospects for her kickstarter.
+3. In the month of december, Successful kickstarters are almost the same number as failed kickstarters. Louis should avoid starting the kickstarter on this month.
 
-- What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
+She has significantly higher chance of success is she can kickstart her fundraiser for $5000 or less. The analysis shows that while $10000 Louis's wants for her play, for the greatest chance of success, she should fundraise for $5000 or less.
 
-- What are some limitations of this dataset?
+### What are some limitations of this dataset?
+There are many outliers in this set that make it hard to get a more realistic median and skew the data. It could also be more detailed by having specific states and territories to help Louis pin-point a more accuarte location to start her play and/or fundraise.
 
-- What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
+We could've done an even deeper analysis to see the average donations per month to see how long the drives should go to maximize donations, or to better pinpoint when the drives made the most money. This would provide us with even more information to maximize donations.
