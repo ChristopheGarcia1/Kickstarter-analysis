@@ -12,8 +12,7 @@ To find underlying trends among the kickstarters by utilizing Excel's graphical 
 
 ### Analysis of Outcomes Based on Launch Date
 
-When the kickstarters were filtered to only show theater production Kickstarters, the data showed that a more than a 1/4 of the of the kickstarters for these productions that were successful were launched between the months of May and June and this has been cosistant through all the years these kickstarters were implimented. Of the 1369 theater drives between 2009 and 2017, 839 were successful with 211 of those successful drives launching in May and June. It is recommended to launch the kickstarter around this time period.
-
+When the kickstarters were filtered to only show theater production Kickstarters, the data showed that a more than a 1/4 of the of the kickstarters for these productions that were successful were launched between the months of May and June and this has been cosistant through all the years these kickstarters were implimented. Of the 1369 theater drives between 2009 and 2017, 839 were successful with 211 of those successful drives launching in May and June. 
 ![alt text](https://github.com/ChristopheGarcia1/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
@@ -24,11 +23,12 @@ According to the analysis, the data showed that the play productions that were m
 
 ### Challenges and Difficulties Encountered
 
-The challenges with this dataset were little issues like formatting
+The challenges I experienced in this dataset were little issues like incorrect formatting with the dates and currency in some of the columns. Most of my issues with this data set during my analysis were from my end due to inexperience and some issues with compiling the data when filters were not cleared out. This lead to pivot tables and data charts not having the correct values when I tried compiling the data.
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+* * It is recommended to launch the kickstarter around this time period.
 
 - What can you conclude about the Outcomes based on Goals?
 
