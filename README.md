@@ -11,9 +11,9 @@ To find underlying trends among the kickstarters by utilize Excel's graphical an
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+![alt text](
 ### Analysis of Outcomes Based on Goals
-
+![alt text](
 ### Challenges and Difficulties Encountered
 
 ## Results
